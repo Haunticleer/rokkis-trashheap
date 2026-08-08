@@ -1,4 +1,4 @@
-# Seedance Reference Assets
+# Rokki’s Trashheap
 
 Temporary public delivery point for disposable video motion-reference files used by external generation services.
 
