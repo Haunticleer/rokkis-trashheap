@@ -1,0 +1,7 @@
+*.mp4
+*.mov
+*.m4v
+*.wav
+*.mp3
+*.json
+.env
